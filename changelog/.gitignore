@@ -23,7 +23,7 @@
 !*.improvement
 !*.improvement.rst
 !*.improvement.*.rst
-!*.misc
+!*.misc 
 !*.misc.rst
 !*.misc.*.rst
 !*.packaging
