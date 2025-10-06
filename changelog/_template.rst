@@ -1,4 +1,4 @@
-{% for section in sections %}
+{% for section in sections %} 
 {% set underline = "-" %}
 {% if section %}
 {{section}}
