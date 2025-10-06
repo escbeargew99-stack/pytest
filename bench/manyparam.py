@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import pytest
+import pytest 
 
 
 @pytest.fixture(scope="module", params=range(966))
