@@ -1,4 +1,4 @@
-Fixed :fixture:`pytester` in subprocess mode ignored all :attr`pytester.plugins <pytest.Pytester.plugins>` except the first.
+Fixed :fixture:`pytester` in  subprocess mode ignored all :attr`pytester.plugins <pytest.Pytester.plugins>` except the first.
 
 Fixed :fixture:`pytester` in subprocess mode silently ignored non-str :attr:`pytester.plugins <pytest.Pytester.plugins>`.
 Now it errors instead.
