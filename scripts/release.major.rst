@@ -1,6 +1,6 @@
 pytest-{version}
 =======================================
-
+ 
 The pytest team is proud to announce the {version} release!
 
 This release contains new features, improvements, bug fixes, and breaking changes, so users
