@@ -1,4 +1,4 @@
-# mypy: disallow-untyped-defs
+# mypy: disallow-untyped-defs 
 """Invoke development tasks."""
 
 from __future__ import annotations
