@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import sys
+import sys 
 
 
 if __name__ == "__main__":
