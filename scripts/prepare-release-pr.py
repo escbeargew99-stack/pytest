@@ -1,4 +1,4 @@
-# mypy: disallow-untyped-defs
+# mypy: disallow-untyped-defsิ
 """
 This script is part of the pytest release process which is triggered manually in the Actions
 tab of the repository.
