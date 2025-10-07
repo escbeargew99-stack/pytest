@@ -3,7 +3,7 @@
 
 from __future__ import annotations
 
-from collections.abc import Generator
+from collections.abc import  Generator
 import dataclasses
 import os
 from pathlib import Path
