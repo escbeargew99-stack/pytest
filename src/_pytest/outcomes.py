@@ -1,6 +1,6 @@
 """Exception classes and constants handling test outcomes as well as
 functions creating them."""
-
+ 
 from __future__ import annotations
 
 import sys
